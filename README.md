@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mohamed nasr
+- 👋 Hi, I’m Mohamed Nasr
 - 👀 I’m interested in Programming, Web and Problem Solving and health care information systems (Hl7/Fhir) and AI and ML and Block Chain.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on Ai or Web team work.
